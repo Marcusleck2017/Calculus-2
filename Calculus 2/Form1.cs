@@ -43,6 +43,7 @@ namespace Calculus_2
             }
         }
 
+    
         private void calculateAcceleration()// the calculation on how to workout acceleration
         {
             for (int i = 2; i < table.Count; i++)
